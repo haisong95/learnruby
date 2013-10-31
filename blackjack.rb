@@ -2,7 +2,8 @@ puts "what's your name?"
 name = gets.chomp
 puts "welcome to BlackJack game!"
 
-while true
+while true 
+
 	card = rand(14)
       
     if card > 10
