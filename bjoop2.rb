@@ -1,3 +1,5 @@
+
+
 class Card
 	attr_accessor :suit, :face_value
   def initialize(s,v)
